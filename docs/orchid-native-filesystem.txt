@@ -1,0 +1,30 @@
+Prefix: "orch"
+
+Grafik
+
+Texturer/Bilder: .orchtex eller .orchimg
+Meshar/Modeller: .orchmesh
+Material: .orchmat
+
+Audio
+Ljud: .orchsnd
+Musik: .orchmus
+
+Animationer
+Karaktärsanimationer: .orchanim
+UI Animationer: .orchui
+
+Speldata
+Nivåer/Kartor: .orchlvl eller .orchmap
+Enheter/Objekt: .orchent
+Script: .orchscr
+
+Paketering och Distribution
+Asset Packs: .orchap eller .orchpack
+Sparspel: .orchsave
+Konfiguration: .orchcfg eller .orchconf
+
+Utveckling och Debugging
+Loggar: .orchlog
+Shaderprogram: .orchshd
+
